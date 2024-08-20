@@ -1,6 +1,6 @@
 # Lomi-Bwerewr
 
-![Lomi-Bwerewr](./assets/screenshot.png)
+![Lomi-Bwerewr](./assets/present/start.png)
 
 ## Overview
 
