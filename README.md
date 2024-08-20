@@ -2,11 +2,11 @@
 
 This Pygame project, developed as part of a school assignment, brings to life a traditional Ethiopian game celebrated during the Epiphany, especially in Gonder city. The game reflects a local custom where a boy throws lemons at a girl to express his interest in her. If she finds his gesture appealing, she joins him in the festive celebrations. This playful interaction is a unique way for unmarried youngsters to connect during the holiday. By digitizing this tradition, the game preserves an important aspect of Ethiopian cultural heritage, allowing the younger generation to engage with and appreciate these customs in a modern format.
 
-![Lomi-Bwerewr](./assets/present/lomi1.png)![Lomi-Bwerewr](./assets/present/lomi2.png)
+(![Lomi-Bwerewr](./assets/present/lomi1.png)![Lomi-Bwerewr](./assets/present/lomi2.png))
 
 ## Overview
 
-"Lomi" is an action-packed 2D game developed using Pygame. The game centers around two characters: a boy and a girl. The boy throws lemons while the girl runs and jumps to avoid them. The objective is to dodge as many lemons as possible to keep the girl alive. The game ends when the girl gets hit by a lemon.
+"Lomi Bwerewr" is an action-packed 2D game developed using Pygame. The game centers around two characters: a boy and a girl. The boy throws lemons while the girl runs and jumps to avoid them. The objective is to dodge as many lemons as possible to keep the girl alive. The game ends when the girl gets hit by a lemon.
 
 ## Features
 
