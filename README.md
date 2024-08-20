@@ -22,27 +22,27 @@
 
 2. **In-Game**:
     - The girl will automatically run across the screen.
-    - Press the `UP` arrow key to make the girl jump and avoid the lemons.
+    - Press the `SPACE` arrow key to make the girl jump and avoid the lemons.
     - Each lemon avoided increases the player's score.
     - The game speeds up, making it more challenging as the score increases.
 
 3. **Game Over**:
     - If the girl is hit by a lemon, the game ends, and a game over screen appears.
-    - You can restart the game by clicking on the "Play Again" button.
+    - You can restart the game by clicking on the "ደግመው ይሞክሩ" button, which means "Play Again".
 
 ## Controls
 
-- **Up Arrow**: Make the girl jump to avoid the lemons.
+- **Space Bar**: Make the girl jump to avoid the lemons.
 
 ## Installation
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/lomi-game.git
+    git clone https://github.com/yourusername/lomi-bwerewr.git
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd lomi-game
+    cd lomi-bwerewr
     ```
 3. **Install the dependencies**:
     ```bash
