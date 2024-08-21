@@ -3,11 +3,11 @@
 <img src='./assets/present/lomi1.png' width=50% height=50% height=[150px] align='right'>
   This Pygame project, developed as part of a school assignment, brings to life a traditional Ethiopian game celebrated during the Epiphany, especially in Gonder city. The game reflects a local custom where a boy throws lemons at a girl to express his interest in her. If she finds his gesture appealing, she joins him in the festive celebrations. This playful interaction is a unique way for unmarried youngsters to connect during the holiday. By digitizing this tradition, the game preserves an important aspect of Ethiopian cultural heritage, allowing the younger generation to engage with and appreciate these customs in a modern format.
 
-##Overview##
+## Overview
 
 "Lomi Bwerewr" is an action-packed 2D game developed using Pygame. The game centers around two characters: a boy and a girl. The boy throws lemons while the girl runs and jumps to avoid them. The objective is to dodge as many lemons as possible to keep the girl alive. The game ends when the girl gets hit by a lemon.
 
-##Features##
+## Features
 
 - **Dynamic Background**: A scrolling background that creates an immersive environment.
 - **Character Animation**: Both the boy and girl have smooth, animated sprites for running, throwing, jumping, and more.
@@ -15,7 +15,7 @@
 - **Sound Effects and Music**: The game includes background music, sound effects for jumping, and throwing lemons.
 - **Start and Game Over Screens**: Interactive screens to start the game and restart after the game ends.
 
-##Gameplay##
+## Gameplay
 
 1. **Start Screen**: 
     - Click "ጀምር" on the screen to start the game. Which means "Start the game" in Amharic.
@@ -36,12 +36,12 @@
     - You can restart the game by clicking on the "ደግመው ይሞክሩ" button, which means "Play Again" in Amharic.
     - ![Lomi-Bwerewr](./assets/present/gameover.png)
 
-##Controls##
+## Controls
 
 - **Space Bar**: Make the girl jump to avoid the lemons.
 - **Left Click**: Start the game clicking the "ጀምር" button.
 
-##Installation##
+## Installation
 
 1. **Clone the repository**:
     ```bash
@@ -60,12 +60,12 @@
     python main.py
     ```
 
-##Assets##
+## Assets
 
 - Background image, character sprites, lemons, and sound effects are stored in the `assets/` directory.
 - Ensure all assets are correctly placed for the game to run smoothly.
 
-##Credits##
+## Credits
 
 - Developed by 
     -[AbelNigus]
@@ -73,6 +73,6 @@
     -[Fraol7](https://github.com/Fraol7)
 - [Pygame](https://www.pygame.org/) was used for game development.
 
-##License##
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
