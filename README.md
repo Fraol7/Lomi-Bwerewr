@@ -71,6 +71,7 @@
     -[AbelNigus]
     -[EyuelDemrew]
     -[Fraol7](https://github.com/Fraol7)
+    -[Zrobera](https://github.com/Zrobera)
 - [Pygame](https://www.pygame.org/) was used for game development.
 
 ## License
